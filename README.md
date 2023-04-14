@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**YesiTamayo/YesiTamayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**YesiTamayo/YesiTamayo** es un repositorio ✨ ESPECIAL ✨ porque su `README.md` (éste archivo) aparece en su GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Actualmente estoy realizando mis prácticas del Sena, en el área de sistemas de la clínica Meintegral, en la ciudad de Manizales
+- 🌱 Actualmente estoy aprendiendo Git, HTML, JavaScript
+- 👯 Busco colaborar en algún proyecto pequeño, para avanzar más en mis conocimientos
+- 🤔 Busco ayuda con lenguajes como JavaScript, PHP, diferentes Frameworks
+- 💬 Pregúntame sobre la vida, u otras preguntas, que si no sé la respuesta, ayudaré a encontrarla
+- 📫 Cómo contactarme: yesitamayo@gmail.com
+- 😄 Pronombres: Ella
+- ⚡ Dato curioso: "¿Internet? ¿Todavía anda eso por ahí?" -- Homer Simpson
